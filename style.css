@@ -1,0 +1,71 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+    margin: 0;
+    color: #000000;
+    text-align: center;
+}
+
+/* Header and Nav */
+header {
+    display: flexbox;
+    justify-content: space-between;
+    align-items: center;
+    background-image: url(https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUybXF4dmRiZTQwZmNrdzduanY4ZDc0bmluMjJwbHg1MDFzNmd4bmU4eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/y4yJaxSPmxgEo/giphy.gif);
+    color: #930000;
+    padding: 2rem 0;
+    
+}
+
+nav ul {
+    padding: 0;
+    list-style: none;
+}
+
+nav ul li {
+    display: inline-flex;
+    margin: 0 15px;
+}
+
+nav a {
+    position: center;
+    color: #930000;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Sections */
+section {
+    padding: 50px 20px;
+    border-bottom: 1px solid #eee;
+}
+
+#beetroot { background-color: #850707; }
+#lettuce   { background-color: #ebe42b; }
+#money { background-color: #104810; }
+
+h2 {
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    color: #888;
+    letter-spacing: 1px;
+}
+
+/* Buttons */
+.button {
+    display: inline-block;
+    background: #b4250c;
+    color: white;
+    padding: 10px 25px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+/* Footer */
+footer {
+    background-image: url(https://thumbs.dreamstime.com/b/fresh-salad-seamless-pattern-background-vector-hand-drawn-elements-33111638.jpg);
+    padding: 20px;
+    font-size: 0.8rem;
+    color: #000000;
+}
