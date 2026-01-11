@@ -62,6 +62,15 @@ h2 {
     margin-top: 10px;
 }
 
+.button:hover {
+  background-color: #7b8829;
+  color: rgb(255, 255, 255);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
 /* Footer */
 footer {
     background-image: url(https://thumbs.dreamstime.com/b/fresh-salad-seamless-pattern-background-vector-hand-drawn-elements-33111638.jpg);
