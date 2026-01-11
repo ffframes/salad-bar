@@ -7,3 +7,4 @@
 -framework is done now jazz it up a bit, add some gifs to spice things up a little
 -messed up the format but i fixed it
 -forgot to change the links, now fixed and they go to the correct sections
+-added smooth scroll and some hover effects
